@@ -15,7 +15,7 @@
     "music",
     "application"
   ],
-  "author": "Madhu Samala",
+  "author": "Ravindu Laksahan",
   "license": "ISC",
   "dependencies": {
     "http-server": "^0.12.1",
